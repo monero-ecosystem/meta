@@ -18,6 +18,9 @@ If you have a monero related repository you want to add, open an issue or contac
 + [The Monero flyer](https://github.com/monero-ecosystem/Monero-flyer) (maintained by erciccione and SamsungGalaxyPlayer)
 + [Stellumo](https://github.com/monero-ecosystem/Stellumo) -  A project to render the entire Monero blockchain as fractal art (maintained by Starmute)
 + [promo-video](https://github.com/monero-ecosystem/promo-video) - Text and translations of all the community videos (maintained by ajs-xmr)
++ [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero
++ [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS
++ [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
