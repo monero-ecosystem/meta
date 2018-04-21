@@ -7,7 +7,7 @@ Feel free to open an issue if you have suggestions/proposals.
 
 
 ## Transfer your repo!
-If you have a monero related repository you want to add, open an issue or contact erciccione, so we can transfer the repo to the "Monero Ecosystem" project. You'll be added as a member of the project and all permissions, commits, history will be inalterated and you will be the maintainer, with no differences from before. Please, ask to transfer a repo only if you plan to keep it updated.
+If you have a monero related repository you want to add, open an issue or contact erciccione, so we can transfer it to the "Monero Ecosystem". You'll be added as a member of the project and all permissions, commits, history, licenses will be inalterated and you will be the maintainer, with no differences from before, but you will get the shiny 'Monero Ecosystem' badge on GitHub. Please, ask to transfer a repo only if you plan to keep it updated.
 
 ## Repositories cointained in this project
 
@@ -18,9 +18,9 @@ If you have a monero related repository you want to add, open an issue or contac
 + [The Monero flyer](https://github.com/monero-ecosystem/Monero-flyer) (maintained by erciccione and SamsungGalaxyPlayer)
 + [Stellumo](https://github.com/monero-ecosystem/Stellumo) -  A project to render the entire Monero blockchain as fractal art (maintained by Starmute)
 + [promo-video](https://github.com/monero-ecosystem/promo-video) - Text and translations of all the community videos (maintained by ajs-xmr)
-+ [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero
-+ [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS
-+ [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction
++ [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero (maintained by dougbebber)
++ [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS (maintained by ajs-xmr)
++ [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction (maintained by Lafudoci)
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
