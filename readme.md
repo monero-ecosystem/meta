@@ -1,4 +1,9 @@
-## What's the purpose of the 'Monero Ecosystem' project?
+<h1 align="center">The Monero Ecosystem</h1>
+<p align="center"> 
+<img src="https://www.themonera.art/wp-content/uploads/2017/09/simple-heart-sticker-monero-white-256.png">
+</p>
+
+## What's the purpose of this project?
 Many Monero related repositories are on GitHub and some are very interesting and important, but they are often uploaded on personal accounts. This limits the visibility of the repository, making contributions and maintenance much harder.
 &nbsp;
 
@@ -24,3 +29,6 @@ If you have a monero related repository you want to add, open an issue or contac
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
+&nbsp;
+
+Logo by [The Monera](https://www.themonera.art/)
