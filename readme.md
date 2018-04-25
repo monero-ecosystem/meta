@@ -26,6 +26,7 @@ If you have a monero related repository you want to add, open an issue or contac
 + [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero (maintained by dougbebber)
 + [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS (maintained by ajs-xmr)
 + [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction (maintained by Lafudoci)
++ ['Don't buy Monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) - The 'Don't buy Monero' sticker. Print it and spread it!
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
