@@ -28,6 +28,8 @@ If you have a monero related repository you want to add, open an issue or contac
 + [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction (maintained by Lafudoci)
 + ['Don't buy Monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) - The 'Don't buy Monero' sticker. Print it and spread it! (maintained by emesik)
 + [slow-hash](https://github.com/monero-ecosystem/slow-hash) - Implementation of Monero's hash function in pure python (maintained by NoThisIsPatrik)
++ [monero-designs](https://github.com/monero-ecosystem/monero-designs) - Collection of designs for Monero (maintained by Rehrar)
++ [monero-translations](https://github.com/monero-ecosystem/monero-translations) - General management repo for the Monero Localization Workgroup (maintained by ErCiccione)
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
