@@ -33,6 +33,7 @@ If you have a monero related repository you want to add, open an issue or contac
 + [monero-docs](https://github.com/monero-ecosystem/monero-docs) - General Monero documentation (maintained by erciccione)
 + [qml-xmr](https://github.com/monero-ecosystem/qml-xmr) -  Mock QML components for Monero-GUI (maintained by skftn)
 + [outreach-docs](https://github.com/monero-ecosystem/outreach-docs) - Monero's community outreach and education wing (maintained by lh1008, ErCiccione and xmr)
++ [moneriote-python](https://github.com/monero-ecosystem/moneriote-python) - Python scripts to maintain Monero opennodes DNS records (maintained by Lafudoci)
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
