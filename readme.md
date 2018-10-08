@@ -16,24 +16,26 @@ If you have a monero related repository you want to add, open an issue or contac
 
 ## Repositories cointained in this project
 
-+ [Meta](https://github.com/monero-ecosystem/meta) - meta repository for general management of the project (maintained by erciccione)
-+ [The Revuo Monero](https://github.com/monero-ecosystem/Revuo-Monero) - The quarterly Revuo Monero (Maintained by rehrar)
-+ [The Guide for the GUI wallet](https://github.com/monero-ecosystem/monero-GUI-guide) - Guide for the [Monero GUI Wallet](https://github.com/monero-project/monero-gui) (maintained by erciccione)
-+ [The monero meetup-kit-localization](https://github.com/monero-ecosystem/monero-meetup-kit-localization) repository - Documents of the Monero Meetup kit that need to be translated (maintained by erciccione)
-+ [The Monero flyer](https://github.com/monero-ecosystem/Monero-flyer) (maintained by erciccione and SamsungGalaxyPlayer)
-+ [Stellumo](https://github.com/monero-ecosystem/Stellumo) -  A project to render the entire Monero blockchain as fractal art (maintained by Starmute)
-+ [promo-video](https://github.com/monero-ecosystem/promo-video) - Text and translations of all the community videos (maintained by ajs-xmr)
-+ [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero (maintained by dougbebber)
-+ [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS (maintained by ajs-xmr)
-+ [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction (maintained by Lafudoci)
-+ ['Don't buy Monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) - The 'Don't buy Monero' sticker. Print it and spread it! (maintained by emesik)
-+ [slow-hash](https://github.com/monero-ecosystem/slow-hash) - Implementation of Monero's hash function in pure python (maintained by NoThisIsPatrik)
-+ [monero-designs](https://github.com/monero-ecosystem/monero-designs) - Collection of designs for Monero (maintained by Rehrar)
-+ [monero-translations](https://github.com/monero-ecosystem/monero-translations) - General management repo for the Monero Localization Workgroup (maintained by ErCiccione)
-+ [monero-docs](https://github.com/monero-ecosystem/monero-docs) - General Monero documentation (maintained by erciccione)
-+ [qml-xmr](https://github.com/monero-ecosystem/qml-xmr) -  Mock QML components for Monero-GUI (maintained by skftn)
-+ [outreach-docs](https://github.com/monero-ecosystem/outreach-docs) - Monero's community outreach and education wing (maintained by lh1008, ErCiccione and xmr)
-+ [moneriote-python](https://github.com/monero-ecosystem/moneriote-python) - Python scripts to maintain Monero opennodes DNS records (maintained by Lafudoci)
++ [Meta](https://github.com/monero-ecosystem/meta) - meta repository for general management of the Monero Ecosystem project - Maintained by erciccione
++ [The Revuo Monero](https://github.com/monero-ecosystem/Revuo-Monero) - The quarterly Revuo Monero - Maintained by rehrar
++ [The Guide for the GUI wallet](https://github.com/monero-ecosystem/monero-GUI-guide) - Guide for the [Monero GUI Wallet](https://github.com/monero-project/monero-gui) - Maintained by erciccione
++ [The monero meetup-kit-localization](https://github.com/monero-ecosystem/monero-meetup-kit-localization) repository - Documents of the Monero Meetup kit that need to be translated - Maintained by erciccione
++ [The Monero flyer](https://github.com/monero-ecosystem/Monero-flyer) - Maintained by erciccione and SamsungGalaxyPlayer
++ [Stellumo](https://github.com/monero-ecosystem/Stellumo) -  A project to render the entire Monero blockchain as fractal art - Maintained by Starmute
++ [promo-video](https://github.com/monero-ecosystem/promo-video) - Text and translations of all the community videos - Maintained by ajs-xmr
++ [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) - Programmable locks via public-key cryptography using Monero - Maintained by dougbebber
++ [monero-pgp-messenger](https://github.com/monero-ecosystem/monero-pgp-messenger) - Send PGP encrypted messages via Monero/IPFS - Maintained by ajs-xmr
++ [XMR-ETA](https://github.com/monero-ecosystem/XMR-ETA) -  A tool predicts the Estimated Time of Arrival of Monero (XMR) transaction - Maintained by Lafudoci
++ ['Don't buy Monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) - The 'Don't buy Monero' sticker. Print it and spread it! - Maintained by emesik
++ [slow-hash](https://github.com/monero-ecosystem/slow-hash) - Implementation of Monero's hash function in pure python - Maintained by NoThisIsPatrik
++ [monero-designs](https://github.com/monero-ecosystem/monero-designs) - Collection of designs for Monero - Maintained by Rehrar
++ [monero-translations](https://github.com/monero-ecosystem/monero-translations) - General management repo for the Monero Localization Workgroup - Maintained by ErCiccione
++ [monero-docs](https://github.com/monero-ecosystem/monero-docs) - General Monero documentation - Maintained by erciccione
++ [qml-xmr](https://github.com/monero-ecosystem/qml-xmr) -  Mock QML components for Monero-GUI - Maintained by skftn
++ [outreach-docs](https://github.com/monero-ecosystem/outreach-docs) - Monero's community outreach and education wing - Maintained by lh1008, ErCiccione and xmrhaelan
++ [moneriote-python](https://github.com/monero-ecosystem/moneriote-python) - Python scripts to maintain Monero opennodes DNS records - Maintained by Lafudoci
++ [python-monerorpc](https://github.com/monero-ecosystem/python-monerorpc) - Improved version of python-jsonrpc for Monero (monerod rpc, monero-wallet-rpc) - Maintained by normoes
++ [monero-java-rpc](https://github.com/monero-ecosystem/monero-java-rpc) - Java interface for managing a Monero wallet - Maintained by woodser
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
