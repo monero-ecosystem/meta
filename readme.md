@@ -30,7 +30,6 @@ If you have a monero related repository you want to add, open an issue or contac
 + [slow-hash](https://github.com/monero-ecosystem/slow-hash) - Implementation of Monero's hash function in pure python - Maintained by NoThisIsPatrik
 + [monero-designs](https://github.com/monero-ecosystem/monero-designs) - Collection of designs for Monero - Maintained by Rehrar
 + [monero-translations](https://github.com/monero-ecosystem/monero-translations) - General management repo for the Monero Localization Workgroup - Maintained by ErCiccione
-+ [monero-docs](https://github.com/monero-ecosystem/monero-docs) - General Monero documentation - Maintained by erciccione
 + [qml-xmr](https://github.com/monero-ecosystem/qml-xmr) -  Mock QML components for Monero-GUI - Maintained by skftn
 + [outreach-docs](https://github.com/monero-ecosystem/outreach-docs) - Monero's community outreach and education wing - Maintained by lh1008, ErCiccione and xmrhaelan
 + [moneriote-python](https://github.com/monero-ecosystem/moneriote-python) - Python scripts to maintain Monero opennodes DNS records - Maintained by Lafudoci
