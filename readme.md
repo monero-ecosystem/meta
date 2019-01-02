@@ -21,6 +21,12 @@ We have our own governance system, where all maintainers have equal power and de
 
 ## Transfer your repo!
 If you have a monero related repository you want to add, open an issue or contact erciccione, so we can transfer it to the "Monero Ecosystem". You'll be added as a member of the project and all permissions, commits, history, licenses will be inalterated and you will be the maintainer, with no differences from before, but you will get the shiny 'Monero Ecosystem' badge on GitHub. Please, ask to transfer a repo only if you plan to keep it updated.
+&nbsp;
+
+Transfering a repo on the Monero Ecosystem means that the repository will be *moved*, not cloned and all development will happen inside the project 'Monero Ecosystem'. The repository is still owned by the maintainer and can be moved back to the personal profile in any moment, if desired.
+&nbsp;
+
+Be aware that when you transfer the repository, the founder of the Monero Ecosystem project (ErCiccione), will have push access to the repo. This is something not avoidable, GitHub gives to the founder admin access to all the repositories in the project. Obviously, these powers will *never* be used and hopefully, sometime in the future,  GitHub will give the possibility to not give the founder of the project god-access to the repositories.
 
 ## Repositories cointained in this project
 
