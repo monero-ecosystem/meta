@@ -50,6 +50,7 @@ Be aware that when you transfer the repository, the founder of the Monero Ecosys
 + [python-monerorpc](https://github.com/monero-ecosystem/python-monerorpc) - Improved version of python-jsonrpc for Monero (monerod rpc, monero-wallet-rpc) - Maintained by normoes
 + [monero-java-rpc](https://github.com/monero-ecosystem/monero-java-rpc) - Java interface for managing a Monero wallet - Maintained by woodser
 + [submit-tx-via-tor](https://github.com/monero-ecosystem/submit-tx-via-tor) - Bash script to submit raw Monero transactions over Tor - Maintained bt skftn
++ [Pymonero](https://github.com/monero-ecosystem/pymonero) - Fork of monero-project/monero to deliver python c++ bindings - Maintainded by ehanoc
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
