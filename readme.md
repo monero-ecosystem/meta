@@ -53,6 +53,7 @@ Be aware that when you transfer the repository, the founder of the Monero Ecosys
 + [Pymonero](https://github.com/monero-ecosystem/pymonero) - Fork of monero-project/monero to deliver python c++ bindings - Maintainded by ehanoc
 + [MoneroBox](https://github.com/monero-ecosystem/monerobox) - MoneroBox aims to make a plug-and-play, zero-configuration Monero full node running on a Single-Board-Computer such as Rock64 and Raspberry Pi 3 - Maintained by Jasonhcwong
 + [Monero-Javascript](https://github.com/monero-ecosystem/monero-javascript) - Monero wallet and daemon JavaScript API - Mantained by Woodser
++ [Monero-Python](https://github.com/monero-ecosystem/monero-python) - A comprehensive Python module for handling Monero cryptocurrency - Maintained by emesik
 &nbsp;
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
