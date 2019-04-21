@@ -1,13 +1,12 @@
-<h1 align="center">The Monero Ecosystem</h1>
 <p align="center"> 
-<img src="https://www.themonera.art/wp-content/uploads/2017/09/simple-heart-sticker-monero-white-256.png">
+<img src="media/ecosystem-banner.png")
 </p>
 
 ## What's the purpose of this project?
 Many Monero related repositories are on GitHub and some are very interesting and important, but they are often uploaded on personal accounts. This limits the visibility of the repository, making contributions and maintenance much harder.
 &nbsp;
 
-The goal of the 'Monero Ecosystem' is to gather all relevant repositories in just one place, easy to find and manage for both maintainers and contributors.    
+The goal of the 'Monero Ecosystem' is to gather all relevant repositories in just one place, easy to find and manage for both maintainers and contributors.  
 Feel free to open an issue if you have suggestions/proposals.
 
 ## Governance system
@@ -59,4 +58,8 @@ Be aware that when you transfer the repository, the founder of the Monero Ecosys
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
 &nbsp;
 
-Logo by [The Monera](https://www.themonera.art/)
+<p align="center"> 
+<img src="media/ecosystem-logo.png">
+</p>
+
+*Logo by [The Monera](https://www.themonera.art/)*
