@@ -7,7 +7,7 @@
 [![Gitter](https://badges.gitter.im/monero-ecosystem/community.svg)](https://gitter.im/monero-ecosystem/community) 
 [![matrix](https://img.shields.io/badge/chat-on%20matrix-blue.svg)](https://matrix.to/#/!sBrxbtGMtBmLLutGCb:matrix.org) 
 [![Freenode](https://img.shields.io/badge/chat-on%20Freenode-orange.svg)](https://webchat.freenode.net/?channels=monero-ecosystem) 
-[![projects](https://img.shields.io/badge/Projects-24-red.svg)](#projects)
+[![projects](https://img.shields.io/badge/Projects-22-red.svg)](#projects)
 
 # What is the Monero Ecosystem project?
 Many Monero related repositories are on GitHub and some are very interesting and important, but they are often uploaded on personal accounts. This limits the visibility of the repository, making contributions and maintenance much harder.
@@ -24,8 +24,6 @@ Feel free to open an issue if you have suggestions/proposals.
 | [monero-ecosystem.github.io](https://github.com/monero-ecosystem/monero-ecosystem.github.io) | Website of the Ecosystem | Lafudoci |
 | [Revuo-Monero](https://github.com/monero-ecosystem/Revuo-Monero) | The quarterly Revuo Monero | rehrar |
 | [monero-GUI-guide](https://github.com/monero-ecosystem/monero-GUI-guide) | Guide for the [Monero GUI Wallet](https://github.com/monero-project/monero-gui) | erciccione |
-| [Monero meetup-kit-localization](https://github.com/monero-ecosystem/monero-meetup-kit-localization) | Documents of the Monero Meetup kit | erciccione |
-| [Monero-flyer](https://github.com/monero-ecosystem/Monero-flyer) | Infographic with generic info about Monero | erciccione, SamsungGalaxyPlayer |
 | [Stellumo](https://github.com/monero-ecosystem/Stellumo) | A project to render the entire Monero blockchain as fractal art | Starmute |
 | [promo-video](https://github.com/monero-ecosystem/promo-video) | Text and translations of all the community videos | ajs-xmr |
 | [Monero-Crypto-Lock](https://github.com/monero-ecosystem/Monero-Crypto-Lock) | Programmable locks via public-key cryptography using Monero | dougbebber |
