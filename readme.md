@@ -7,7 +7,7 @@
 [![Gitter](https://badges.gitter.im/monero-ecosystem/community.svg)](https://gitter.im/monero-ecosystem/community) 
 [![matrix](https://img.shields.io/badge/chat-on%20matrix-blue.svg)](https://matrix.to/#/!sBrxbtGMtBmLLutGCb:matrix.org) 
 [![Freenode](https://img.shields.io/badge/chat-on%20Freenode-orange.svg)](https://webchat.freenode.net/?channels=monero-ecosystem) 
-[![projects](https://img.shields.io/badge/Projects-22-red.svg)](#projects)
+[![projects](https://img.shields.io/badge/Projects-24-red.svg)](#projects)
 
 # What is the Monero Ecosystem project?
 Many Monero related repositories are on GitHub and some are very interesting and important, but they are often uploaded on personal accounts. This limits the visibility of the repository, making contributions and maintenance much harder.
@@ -43,6 +43,7 @@ Feel free to open an issue if you have suggestions/proposals.
 | [MoneroBox](https://github.com/monero-ecosystem/monerobox) | MoneroBox aims to make a plug-and-play, zero-configuration Monero full node running on a Single-Board-Computer such as Rock64 and Raspberry Pi 3 | Jasonhcwong |
 | [Monero-Javascript](https://github.com/monero-ecosystem/monero-javascript) | Monero wallet and daemon JavaScript API | Woodser |
 | [Monero-Python](https://github.com/monero-ecosystem/monero-python) | A comprehensive Python module for handling Monero cryptocurrency | emesik |
+| [go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client) | client for the Monero RPC (wallet and daemon) in golang | omani |
 
 # Join the Ecosystem!
 If you have a monero related repository you want to add, open an issue in the 'meta' repository, saying why you want to join us and what you plan for your project. You'll be added as a member of the project and all permissions, commits, history, licenses will be inalterated and you will be the maintainer, with no differences from before, but you will get the shiny 'Monero Ecosystem' badge on GitHub. Please, ask to transfer a repo only if you plan to keep it updated.
