@@ -37,7 +37,7 @@ Feel free to open an issue if you have suggestions/proposals.
 | [outreach-docs](https://github.com/monero-ecosystem/outreach-docs) | Monero's community outreach and education wing | lh1008, erciccione |
 | [moneriote-python](https://github.com/monero-ecosystem/moneriote-python) | Python scripts to maintain Monero opennodes DNS records | Lafudoci |
 | [python-monerorpc](https://github.com/monero-ecosystem/python-monerorpc) | Improved version of python-jsonrpc for Monero (monerod rpc, monero-wallet-rpc) | normoes |
-| [monero-java-rpc](https://github.com/monero-ecosystem/monero-java-rpc) | Java interface for managing a Monero wallet | woodser |
+| [monero-java](https://github.com/monero-ecosystem/monero-java) | Java interface for managing a Monero wallet | woodser |
 | [submit-tx-via-tor](https://github.com/monero-ecosystem/submit-tx-via-tor) | Bash script to submit raw Monero transactions over Tor | xmrdsc |
 | [Pymonero](https://github.com/monero-ecosystem/pymonero) | Fork of monero-project/monero to deliver python c++ bindings | ehanoc |
 | [MoneroBox](https://github.com/monero-ecosystem/monerobox) | MoneroBox aims to make a plug-and-play, zero-configuration Monero full node running on a Single-Board-Computer such as Rock64 and Raspberry Pi 3 | Jasonhcwong |
