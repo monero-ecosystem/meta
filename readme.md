@@ -47,6 +47,7 @@ Feel free to open an issue if you have suggestions/proposals.
 | [monero-rpc-rs](https://github.com/monero-ecosystem/monero-rpc-rs) | RPC client written in Rust for Monero daemon and wallet | vorot93 |
 | [vanity-monero](https://github.com/monero-ecosystem/vanity-monero) | Generate vanity address for Monero | Equim-chan |
 | [MoneroTipper](https://github.com/monero-ecosystem/MoneroTipper) | Non-custodial Monero tip bot for Reddit | dginovker |
+| [go-xmrto-client](https://github.com/monero-ecosystem/go-xmrto-client) | Xmr.to client written in Go | Omani |
 
 # Join the Ecosystem!
 If you have a monero related repository you want to add, open an issue in the 'meta' repository, saying why you want to join us and what you plan for your project. You'll be added as a member of the project and all permissions, commits, history, licenses will be inalterated and you will be the maintainer, with no differences from before, but you will get the shiny 'Monero Ecosystem' badge on GitHub. Please, ask to transfer a repo only if you plan to keep it updated.
