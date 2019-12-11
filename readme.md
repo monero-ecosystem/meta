@@ -62,7 +62,7 @@ Be aware that when you transfer the repository, the founder of the Monero Ecosys
 # Governance system
 When a repo maintainer joins the ecosystem (s)he becomes part of our governance system, where all maintainers have equal power and decide how the project is structured and maintained. The governance system works as follow:
 
-+ The team who decide which proposals should be included and which not is composed by all repo maintainers inside the ecosystem. ErCiccione keeps a veto right as steward of the project (to be used only in extreme cases).
++ The team who decide which proposals should be included and which not is composed by all repo maintainers inside the ecosystem.
 + Proposals to add and remove a new repository should be posted on the *meta* repo using the issue tracker.
 + A repository will be accepted/removed when 50%+1 of the maintainers participating to the discussion reach consensus.
 + Substantial decisions about the Monero Ecosystem project shall be made using the same system as for the precedent point.
