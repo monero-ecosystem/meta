@@ -41,7 +41,7 @@ Feel free to open an issue if you have suggestions/proposals.
 | [submit-tx-via-tor](https://github.com/monero-ecosystem/submit-tx-via-tor) | Bash script to submit raw Monero transactions over Tor | xmrdsc |
 | [Pymonero](https://github.com/monero-ecosystem/pymonero) | Fork of monero-project/monero to deliver python c++ bindings | ehanoc |
 | [MoneroBox](https://github.com/monero-ecosystem/monerobox) | MoneroBox aims to make a plug-and-play, zero-configuration Monero full node running on a Single-Board-Computer such as Rock64 and Raspberry Pi 3 | Jasonhcwong |
-| [Monero-Javascript](https://github.com/monero-ecosystem/monero-javascript) | Monero wallet and daemon JavaScript API | Woodser |
+| [monero-ts](https://github.com/monero-ecosystem/monero-ts) | Monero wallet and daemon TypeScript library | woodser |
 | [Monero-Python](https://github.com/monero-ecosystem/monero-python) | A comprehensive Python module for handling Monero cryptocurrency | emesik |
 | [go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client) | Client for the Monero RPC (wallet and daemon) in golang | omani |
 | [monero-rpc-rs](https://github.com/monero-ecosystem/monero-rpc-rs) | RPC client written in Rust for Monero daemon and wallet | vorot93 |
