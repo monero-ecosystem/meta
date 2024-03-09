@@ -3,11 +3,7 @@
 </div>
 &nbsp;
 
-[![Website](https://img.shields.io/badge/website-moneroecosystem.org-brightgreen.svg)](https://moneroecosystem.org) 
-[![Gitter](https://badges.gitter.im/monero-ecosystem/community.svg)](https://gitter.im/monero-ecosystem/community) 
-[![matrix](https://img.shields.io/badge/chat-on%20matrix-blue.svg)](https://matrix.to/#/!sBrxbtGMtBmLLutGCb:matrix.org) 
-[![Freenode](https://img.shields.io/badge/chat-on%20Freenode-orange.svg)](https://webchat.freenode.net/?channels=monero-ecosystem) 
-[![projects](https://img.shields.io/badge/Projects-33-red.svg)](#projects)
+** This project is closed and all its repositories archived. See [the issue](https://github.com/monero-ecosystem/meta/issues/78)**
 
 # What is the Monero Ecosystem project?
 Many Monero related repositories are on GitHub and some are very interesting and important, but they are often uploaded on personal accounts. This limits the visibility of the repository, making contributions and maintenance much harder.
